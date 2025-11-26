@@ -1,6 +1,3 @@
-¡Claro! Convertiré la documentación a un formato .md estricto, utilizando listas y encabezados de Markdown, sin tablas ni emojis, manteniendo el tono fluido para tu exposición.
-
-📄 DOCUMENTACION_POO.md
 Diseño y Aplicación de Principios de POO: Legends of Aether
 Introducción y Objetivo del Sistema
 El proyecto Legends of Aether modela el núcleo lógico de un videojuego, enfocándose en la aplicación rigurosa de los principios de Abstracción, Encapsulamiento y Relación de Clases usando Java.
