@@ -8,7 +8,7 @@ public class Main {
         //  1. CONFIGURACIÓN INICIAL Y PREPARACIÓN
         // ===============================================
         
-        // Variables fijas que simulan la personalización y las elecciones del usuario (Sin Scanner)
+        // Variables fijas que simulan la personalización y las elecciones del usuario 
         String heroName = "MOISES EL HERMANO DE TWITCH ";
         CharacterType initialType = CharacterType.HECHICERO;
         int pathChoiceNivel1 = 2; // Simula: Elegir Combate (2)
@@ -130,4 +130,5 @@ public class Main {
         
         System.out.println("\n--- FIN DE LA SIMULACIÓN ---");
     }
+
 }
