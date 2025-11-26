@@ -1,4 +1,10 @@
 Diseño y Aplicación de Principios de POO: Legends of Aether
+
+Integrantes:
+Axel Samuel Molineros Mina
+Jeremy Josue Novoa Rodrigez
+Johnny Argely Tandazo Rojas
+
 Introducción y Objetivo del Sistema
 El proyecto Legends of Aether modela el núcleo lógico de un videojuego, enfocándose en la aplicación rigurosa de los principios de Abstracción, Encapsulamiento y Relación de Clases usando Java.
 
@@ -49,3 +55,4 @@ Recolección (CollectibleObject ⇌ PlayerCharacter):
 El objeto, al ser usado (reward.useItem(heroe)), interactúa directamente con los setters del héroe (heroe.setHealth(), heroe.setMana()) para modificar sus atributos.
 
 Nivel y Progresión: La simulación avanza a través de cuatro niveles (Zona 1 a 4), demostrando cómo el personaje (PlayerCharacter) gana experiencia y utiliza las entidades del Level para progresar.
+
